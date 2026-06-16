@@ -1,152 +1,104 @@
+<!-- Header Animado -->
+
 <div align="center">
 
-# Pedro Augusto Cardoso
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=12000&color=4F8CC9&center=true&vCenter=true&random=false&width=900&lines=Olá%2C+eu+sou+Pedro+Augusto+Cardoso+👋;" />
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Engenharia+de+Software;Python+%7C+React+%7C+PostgreSQL;Análise+de+Dados;Arquitetura+de+Sistemas;Linux+Powered;Construindo+Soluções+Escaláveis" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=1200&color=4F8CC9&center=true&vCenter=true&random=false&width=900&lines=Engenheiro+de+Software;Python+%7C+React+%7C+PostgreSQL;Análise+de+Dados+e+Automação;Linux+Entusiasta+(NixOS+%26+Ubuntu);Construindo+Sistemas+que+Resolvem+Problemas" />
 
-<p>
-Construindo aplicações, analisando dados e projetando sistemas que transformam complexidade em soluções sustentáveis.
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedro-cardoso-8364b5245/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://medium.com/@pedro_aoc">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://substack.com/@pedroaoc">
+<img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/pedro_aoc/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=pedroaoc20&style=for-the-badge&color=4F8CC9"/>
 
 </div>
 
 ---
 
-# Sobre Mim
+<img align="right" alt="Engenharia de Software" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-Sou Engenheiro de Software com foco em desenvolvimento de aplicações web, análise de dados e automação de processos.
+```python
+class PedroCardoso:
 
-Minha trajetória começou em infraestrutura e suporte técnico, experiência que me permitiu compreender sistemas além do código, observando como arquitetura, operação e usuários se conectam para produzir resultados reais.
+    cargo = "Engenheiro de Software"
 
-Atualmente desenvolvo projetos utilizando **Python**, **React** e **PostgreSQL**, com Linux como ambiente principal de trabalho. Tenho interesse especial por arquitetura de software, engenharia de dados, automação e inteligência artificial.
+    especialidades = [
+        "Aplicações Web",
+        "Análise de Dados",
+        "Automação",
+        "Arquitetura de Software"
+    ]
 
-Acredito que software de qualidade surge da combinação entre simplicidade, clareza técnica e entendimento profundo do problema que está sendo resolvido.
+    linguagens = [
+        "Python",
+        "JavaScript",
+        "typescript",
+        "Rust (Aprendendo)"
+    ]
 
----
+    backend = [
+        "FastAPI",
+        "Django"
+    ]
 
-# Engineering Focus
+    frontend = [
+        "React",
+        "Vite",
+        "TailwindCSS"
+    ]
 
-### Desenvolvimento de Software
+    banco_de_dados = [
+        "PostgreSQL"
+    ]
 
-* Aplicações Web
-* APIs REST
-* Backend Development
-* Integração entre Sistemas
+    ferramentas = [
+        "UV",
+        "Pytest",
+        "Git",
+        "podman/docker",
+        "Linux"
+    ]
 
-### Dados
+    sistemas_operacionais = [
+        "NixOS",
+        "Ubuntu"
+    ]
 
-* Análise Exploratória
-* Transformação de Dados
-* Modelagem Relacional
-* Dashboards e Indicadores
+    interesses = [
+        "Engenharia de Software",
+        "Arquitetura de Sistemas",
+        "Engenharia de Dados",
+        "Inteligência Artificial",
+        "Linux",
+        "Ficção Científica"
+    ]
 
-### Automação
-
-* Automação de Processos
-* Scripts Operacionais
-* Fluxos de Trabalho
-* Otimização de Rotinas
-
-### Arquitetura
-
-* Organização de Sistemas
-* Boas Práticas
-* Evolução de Software
-* Escalabilidade
-
----
-
-# Core Stack
-
-## Linguagens e Frameworks
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-</p>
-
-## Banco de Dados
-
-<p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
-
-## Sistemas Operacionais
-
-<p>
-
-<img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-</p>
-
-## Ferramentas
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-</p>
-
----
-
-# Engineering Principles
-
-```text
-✓ Compreender o sistema antes de modificá-lo
-
-✓ Resolver a causa raiz, não apenas os sintomas
-
-✓ Priorizar simplicidade antes de complexidade
-
-✓ Automatizar tarefas repetitivas
-
-✓ Tratar dados como ativos estratégicos
-
-✓ Construir software pensando na manutenção futura
-
-✓ Evoluir sistemas sem comprometer sua estabilidade
 ```
 
----
-
-# Current Mission
-
-```yaml
-focus:
-  - Desenvolvimento de Aplicações Web
-  - Engenharia de Dados
-  - Automação de Processos
-  - Arquitetura de Software
-  - Inteligência Artificial
-
-environment:
-  - NixOS
-  - Ubuntu
-
-core_stack:
-  - Python
-  - React
-  - PostgreSQL
-
-status: building
-```
+<br clear="right"/>
 
 ---
 
-# GitHub Telemetry
+## 📊 Telemetria
 
 <div align="center">
 
@@ -158,7 +110,7 @@ status: building
 
 ---
 
-# Development Activity
+## 🔥 Atividade
 
 <div align="center">
 
@@ -168,7 +120,7 @@ status: building
 
 ---
 
-# Contribution Graph
+## 📈 Evolução de Contribuições
 
 <div align="center">
 
@@ -178,42 +130,27 @@ status: building
 
 ---
 
-# Open Source Journey
-
 <div align="center">
 
-![Snake animation](https://github.com/pedroaoc20/pedroaoc20/blob/output/github-contribution-grid-snake.svg)
+### "Software é apenas a ferramenta. O verdadeiro desafio é compreender o sistema."
 
 </div>
 
----
-
-# Connect
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/pedro-cardoso-8364b5245/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://medium.com/@pedro_aoc">
-<img src="https://img.shields.io/badge/Medium-Artigos-black?style=for-the-badge&logo=medium"/>
-</a>
-
-<a href="https://substack.com/@pedroaoc">
-<img src="https://img.shields.io/badge/Substack-Newsletters-orange?style=for-the-badge&logo=substack"/>
-</a>
-
-<a href="https://www.instagram.com/pedro_aoc/">
-<img src="https://img.shields.io/badge/Instagram-Contato-purple?style=for-the-badge&logo=instagram"/>
-</a>
-
-</p>
-
----
+<br>
 
 <div align="center">
 
-### "Bons sistemas não surgem por acaso. Eles são projetados, refinados e evoluídos."
+```text
+          ___________
+         /          /|
+        /__________/ |
+        |          | |
+        |  CODE    | |
+        |  BUILD   | |
+        |  LEARN   | /
+        |__________|/
+
+    Engenharia é evolução contínua.
+```
 
 </div>
