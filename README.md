@@ -2,8 +2,6 @@
 
 # Pedro Augusto Cardoso
 
-### Software Engineer • Systems Builder • Data Explorer
-
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Engenharia+de+Software;Python+%7C+React+%7C+PostgreSQL;Análise+de+Dados;Arquitetura+de+Sistemas;Linux+Powered;Construindo+Soluções+Escaláveis" />
 </p>
